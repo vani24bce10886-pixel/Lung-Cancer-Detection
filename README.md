@@ -1,5 +1,4 @@
-#  Lung Cancer Detection using CNN (TensorFlow)
-
+#  Lung Cancer Detection using CNN 
 ## Project Overview
 
 This project implements a **Convolutional Neural Network (CNN)** to classify lung cancer images into different categories using TensorFlow and Keras. It also includes advanced evaluation metrics and **Explainable AI (Grad-CAM)** to visualize model decision-making.
