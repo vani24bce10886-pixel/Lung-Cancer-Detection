@@ -102,7 +102,7 @@ python main.py
 - Binary and multi-class supported
 - AUC score included
 
-![ROC Curve](ROC curve.jpeg)
+![ROC Curve](img.jpeg)
 ---
 
 ##  Explainable AI (Grad-CAM)
