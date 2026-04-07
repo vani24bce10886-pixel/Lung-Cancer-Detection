@@ -20,11 +20,17 @@ This project implements a **Convolutional Neural Network (CNN)** to classify lun
 
 ---
 
-##  Dataset
+## Dataset
 
-* Input: Lung cancer image dataset (ZIP file)
+We use a lung cancer image dataset from Kaggle:
+
+[Download Dataset](https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset)
+
+* Details
+- Input: Lung cancer image dataset (ZIP file)
+- The dataset is automatically extracted before training.
+
 * Structure:
-
   ```
   dataset/
     ├── class_1/
@@ -97,7 +103,7 @@ python main.py
 
 * Binary and multi-class supported
 * AUC score included
-
+![ROC Curve](ROC curve.jpeg)
 ---
 
 ##  Explainable AI (Grad-CAM)
