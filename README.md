@@ -104,7 +104,7 @@ python main.py
 - Binary and multi-class supported
 - AUC score included
 
-![ROC Curve](img.jpeg)
+![ROC Curve](roc_curve.jpeg)
 ---
 
 ##  Explainable AI (Grad-CAM)
@@ -113,6 +113,8 @@ Grad-CAM highlights regions of the image that influenced the model’s predictio
 
 * Helps in medical interpretability
 * Overlays heatmap on original scan
+
+![Grad-CAM](gradcam.jpeg)
 
 ---
 
