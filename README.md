@@ -21,7 +21,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify lun
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 
 * Input: Lung cancer image dataset (ZIP file)
 * Structure:
@@ -36,7 +36,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify lun
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -84,17 +84,17 @@ python main.py
 
 ## Evaluation Metrics
 
-### ✔ Confusion Matrix
+###  Confusion Matrix
 
 * Visualizes prediction vs actual labels
 
-### ✔ Classification Report
+###  Classification Report
 
 * Precision
 * Recall
 * F1-score
 
-### ✔ ROC Curve
+###  ROC Curve
 
 * Binary and multi-class supported
 * AUC score included
