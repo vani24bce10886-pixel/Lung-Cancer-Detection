@@ -24,9 +24,10 @@ This project implements a **Convolutional Neural Network (CNN)** to classify lun
 We use a lung cancer image dataset from Kaggle:
 
 [Download Dataset](https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset)
-* Details
-- Input: Lung cancer image dataset (ZIP file)
-- The dataset is automatically extracted before training.
+
+* Details:
+  * Input: Lung cancer image dataset (ZIP file)
+  * The dataset is automatically extracted before training.
 
 * Structure:
   ```
