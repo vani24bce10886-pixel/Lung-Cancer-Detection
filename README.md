@@ -91,6 +91,8 @@ python main.py
 
 * Visualizes prediction vs actual labels
 
+![Confusion Matrix](confusion_mat.jpeg)
+
 ###  Classification Report
 
 * Precision
