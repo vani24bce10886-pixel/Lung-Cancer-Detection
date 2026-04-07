@@ -1,12 +1,12 @@
-# 🫁 Lung Cancer Detection using CNN (TensorFlow)
+#  Lung Cancer Detection using CNN (TensorFlow)
 
-## 📌 Project Overview
+## Project Overview
 
 This project implements a **Convolutional Neural Network (CNN)** to classify lung cancer images into different categories using TensorFlow and Keras. It also includes advanced evaluation metrics and **Explainable AI (Grad-CAM)** to visualize model decision-making.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Image classification using CNN
 * Automatic dataset extraction from ZIP
@@ -53,7 +53,7 @@ pip install tensorflow matplotlib numpy seaborn scikit-learn opencv-python
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Update dataset path in the script:
 
@@ -70,7 +70,7 @@ python main.py
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 * Input Layer (256×256×3)
 * Rescaling Layer
@@ -82,7 +82,7 @@ python main.py
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 ### ✔ Confusion Matrix
 
@@ -101,7 +101,7 @@ python main.py
 
 ---
 
-## 🔍 Explainable AI (Grad-CAM)
+##  Explainable AI (Grad-CAM)
 
 Grad-CAM highlights regions of the image that influenced the model’s prediction.
 
@@ -110,7 +110,7 @@ Grad-CAM highlights regions of the image that influenced the model’s predictio
 
 ---
 
-## 📸 Output Visualizations
+##  Output Visualizations
 
 * Batch prediction results with confidence scores
 * Confusion matrix heatmap
@@ -119,7 +119,7 @@ Grad-CAM highlights regions of the image that influenced the model’s predictio
 
 ---
 
-## 📈 Training Details
+##  Training Details
 
 * Image size: 256 × 256
 * Batch size: 32
@@ -136,7 +136,7 @@ It is **not intended for clinical diagnosis** or real-world medical use.
 
 ---
 
-## 🙌 Future Improvements
+##  Future Improvements
 
 * Use transfer learning (e.g., ResNet, EfficientNet)
 * Hyperparameter tuning
