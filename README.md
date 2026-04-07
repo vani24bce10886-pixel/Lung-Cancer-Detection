@@ -121,9 +121,15 @@ Grad-CAM highlights regions of the image that influenced the model’s predictio
 ##  Output Visualizations
 
 * Batch prediction results with confidence scores
+
+![Img](output.jpeg)
+
+![Img](output1.jpeg)
+
 * Confusion matrix heatmap
 * ROC curves
 * Grad-CAM heatmap overlay
+  
 
 ---
 
