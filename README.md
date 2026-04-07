@@ -11,7 +11,6 @@ This project implements a **Convolutional Neural Network (CNN)** to classify lun
 * Automatic dataset extraction from ZIP
 * Training & validation split
 * Performance evaluation:
-
   * Accuracy
   * Confusion Matrix
   * Classification Report
@@ -25,7 +24,6 @@ This project implements a **Convolutional Neural Network (CNN)** to classify lun
 We use a lung cancer image dataset from Kaggle:
 
 [Download Dataset](https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset)
-
 * Details
 - Input: Lung cancer image dataset (ZIP file)
 - The dataset is automatically extracted before training.
@@ -101,8 +99,9 @@ python main.py
 
 ###  ROC Curve
 
-* Binary and multi-class supported
-* AUC score included
+- Binary and multi-class supported
+- AUC score included
+
 ![ROC Curve](ROC curve.jpeg)
 ---
 
